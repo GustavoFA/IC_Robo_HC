@@ -36,7 +36,7 @@ Este projeto de iniciação científica visa o aperfeiçoamento de um robô de t
 ---
 
 
-Para uma leitura completa do projeto acesse o documento [Relatório Final PIBIC]().
+Para uma leitura completa do projeto acesse o documento [Relatório Final PIBIC](https://github.com/GustavoFA/IC_Robo_HC/blob/main/Relat%C3%B3rio%20Final%20PIBIC.pdf).
 
 
 

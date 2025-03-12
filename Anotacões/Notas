@@ -1,0 +1,31 @@
+Código para teste do driver VNH2SP30
+Fonte: https://www.instructables.com/Monster-Motor-Shield-VNH2SP30/
+        https://www.pololu.com/product/706
+
+ Current Sense
+ No datasheet não foi encontrado informações suficientes para determinar um padrão para o CS. Em alguns fóruns encontramos o valor de 0.13V/A.
+
+ Alimentação 
+ Range: 5.5 to 16 V
+
+ Conexões com os motores
+
+ * A1 e B1 -> Motor 1
+ * A2 e B2 -> Motor 2
+ 
+
+ Conexões com o placa do microcontrolador
+
+ * A0 - Enable motor 1
+ * A1 - Enable motor 2 
+ * A2 - Current sensor motor 1
+ * A3 - Current sensor motor 2
+ * D7 - Clockwise motor 1
+ * D8 - Counterclockwise motor 1
+ * D4 - Clockwise motor 2
+ * D9 - Counterclockwise motor 2
+ * D5 - PWM motor 1
+ * D6 - PWM motor 2
+ 
+
+
